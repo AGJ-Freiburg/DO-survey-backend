@@ -11,15 +11,13 @@ Germany-wide survey designed to understand the digital needs of homeless people.
 # Contributors
 | TASK             | PERSONS                                                          | 
 | -------------    |-------------:                                                    | 
-| Project lead     | [https://github.com/MoritzBross](Moritz Bross), [https://github.com/StandardWobin](Robin Haensse)                                      |
-| Programming      | [https://github.com/StandardWobin](Robin Haensse)                                                    | 
-| Survey structure | [https://github.com/MoritzBross](Moritz Bross), [https://github.com/bernhardlruchti](Bernhard Ruchti), Ilaria Mastrelli, https://github.com/StandardWobin](Robin Haensse)   | 
-| Evaluation       | [https://github.com/StandardWobin](Robin Haensse)                                                    | 
+| Project lead     | [Moritz Bross](https://github.com/MoritzBross), [Robin Haensse](https://github.com/StandardWobin)                                     |
+| Programming      | [Robin Haensse](https://github.com/StandardWobin)                                                    | 
+| Survey structure | [Moritz Bross](https://github.com/MoritzBross), [Bernhard Ruchti](https://github.com/bernhardlruchti), Ilaria Mastrelli, [Robin Haensse](https://github.com/StandardWobin)   | 
+| Evaluation       | [Robin Haensse](https://github.com/StandardWobin)                                                  | 
 
-## Contant
-1. [AGJ-Freiburg](https://agj-freiburg.de/kontaktformular)
-2. the developers using "Issues"
-
+## QUESTIONS
+Contact wohnungslosenhilfe@agj-freiburg.de
 
 ## How to use
 1. clone this repository
