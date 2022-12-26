@@ -11,10 +11,10 @@ Germany-wide survey designed to understand the digital needs of homeless people.
 # Contributors
 | TASK             | PERSONS                                                          | 
 | -------------    |-------------:                                                    | 
-| Project lead     | Moritz Bross, Robin Haensse                                      |
-| Programming      | Robin Haensse                                                    | 
-| Survey structure | Moritz Bross, Bernhard Ruchti, Ilaria Mastrelli, Robin Haensse   | 
-| Evaluation       | Robin Haensse                                                     | 
+| Project lead     | [https://github.com/MoritzBross](Moritz Bross), [https://github.com/StandardWobin](Robin Haensse)                                      |
+| Programming      | [https://github.com/StandardWobin](Robin Haensse)                                                    | 
+| Survey structure | [https://github.com/MoritzBross](Moritz Bross), [https://github.com/bernhardlruchti](Bernhard Ruchti), Ilaria Mastrelli, https://github.com/StandardWobin](Robin Haensse)   | 
+| Evaluation       | [https://github.com/StandardWobin](Robin Haensse)                                                    | 
 
 ## Contant
 1. [AGJ-Freiburg](https://agj-freiburg.de/kontaktformular)
